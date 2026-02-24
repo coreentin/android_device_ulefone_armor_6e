@@ -1,8 +1,7 @@
-# Android device tree for Ulefone Armor_6E (Armor_6E)
+# Android device tree for Ulefone Armor_6E
 
 ```
 #
 # SPDX-FileCopyrightText: The LineageOS Project
-# SPDX-License-Identifier: Apache-2.0
 #
 ```
